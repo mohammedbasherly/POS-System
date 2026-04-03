@@ -1,0 +1,12 @@
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\DataAccessTier\bin\Release\DataAccessTier.dll
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\DataAccessTier\bin\Release\DataAccessTier.pdb
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\DataAccessTier\obj\Release\DataAccessTier.csproj.AssemblyReference.cache
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\DataAccessTier\obj\Release\DataAccessTier.csproj.CoreCompileInputs.cache
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\DataAccessTier\obj\Release\DataAccessTier.dll
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\DataAccessTier\obj\Release\DataAccessTier.pdb
+E:\Programming\Desktop Developement\Kifa7i_POS_System\DataAccessTier\bin\Release\DataAccessTier.dll
+E:\Programming\Desktop Developement\Kifa7i_POS_System\DataAccessTier\bin\Release\DataAccessTier.pdb
+E:\Programming\Desktop Developement\Kifa7i_POS_System\DataAccessTier\obj\Release\DataAccessTier.csproj.AssemblyReference.cache
+E:\Programming\Desktop Developement\Kifa7i_POS_System\DataAccessTier\obj\Release\DataAccessTier.csproj.CoreCompileInputs.cache
+E:\Programming\Desktop Developement\Kifa7i_POS_System\DataAccessTier\obj\Release\DataAccessTier.dll
+E:\Programming\Desktop Developement\Kifa7i_POS_System\DataAccessTier\obj\Release\DataAccessTier.pdb
