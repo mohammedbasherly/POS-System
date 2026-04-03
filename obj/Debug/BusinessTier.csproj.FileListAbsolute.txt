@@ -1,0 +1,18 @@
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\BusinessTier\bin\Debug\BusinessTier.dll
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\BusinessTier\bin\Debug\DataAccessTier.dll
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\BusinessTier\bin\Debug\DataAccessTier.pdb
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\BusinessTier\obj\Debug\BusinessTier.csproj.AssemblyReference.cache
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\BusinessTier\obj\Debug\Business.CF829E41.Up2Date
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\BusinessTier\obj\Debug\BusinessTier.dll
+C:\Real Projects\Kifa7i POS\Kifa7i_POS_System\BusinessTier\obj\Debug\BusinessTier.pdb
+E:\Programming\Desktop Developement\Kifa7i_POS_System\BusinessTier\bin\Debug\BusinessTier.dll
+E:\Programming\Desktop Developement\Kifa7i_POS_System\BusinessTier\bin\Debug\BusinessTier.pdb
+E:\Programming\Desktop Developement\Kifa7i_POS_System\BusinessTier\bin\Debug\DataAccessTier.dll
+E:\Programming\Desktop Developement\Kifa7i_POS_System\BusinessTier\bin\Debug\DataAccessTier.pdb
+E:\Programming\Desktop Developement\Kifa7i_POS_System\BusinessTier\obj\Debug\BusinessTier.csproj.AssemblyReference.cache
+E:\Programming\Desktop Developement\Kifa7i_POS_System\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+E:\Programming\Desktop Developement\Kifa7i_POS_System\BusinessTier\obj\Debug\Business.CF829E41.Up2Date
+E:\Programming\Desktop Developement\Kifa7i_POS_System\BusinessTier\obj\Debug\BusinessTier.dll
+E:\Programming\Desktop Developement\Kifa7i_POS_System\BusinessTier\obj\Debug\BusinessTier.pdb
