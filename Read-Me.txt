@@ -1,0 +1,4 @@
+The project is splitted into 3 Bracnches. 
+    [1] Presentaion-Tier,
+    [2] Business-Tier,
+    [3] DataAccess-Tier.
